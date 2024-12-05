@@ -1,0 +1,10 @@
+#ifndef TODO_H
+#define TODO_H
+void todo();
+void menu();
+void save();
+void markTaskAsDone();
+void deleteTask();
+void editTask();
+void loadTasksFromFile();
+#endif //TODO_H
